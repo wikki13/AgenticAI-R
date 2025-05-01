@@ -1,0 +1,23 @@
+# R files
+*.Rhistory
+*.RData
+*.Rproj.user/
+.Rproj.user/
+.Renviron
+
+# Logs, outputs
+*.parquet
+*.feather
+*.rds
+logs/
+chat_history.*
+
+# IDE/project files
+.Rproj.user/
+*.Rproj
+.Rhistory
+.RData
+
+# OS-generated
+.DS_Store
+Thumbs.db
