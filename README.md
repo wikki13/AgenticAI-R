@@ -2,6 +2,8 @@
 
 A Shiny app that integrates Agentic AI capabilities using the [`ellmer`](https://cran.r-project.org/package=ellmer) package, [GROQ API](https://groq.com), and persistent chat logging with Apache Arrow Parquet files.
 
+# Use it here
+(https://wikki13-agenticai-r.share.connect.posit.cloud)
 ## 💡 Features
 
 - Interactive chat interface built with Shiny
