@@ -62,7 +62,7 @@ updated_chat_log <- function(speaker, message, response){
   chat_history(updated_log)
 }
 
-
+  #Execute the textbox to move automically for incoming texts
 observeEvent(input$send, {
   req(input$message)
   
