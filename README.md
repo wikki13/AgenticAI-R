@@ -6,7 +6,7 @@ A Shiny app that integrates Agentic AI capabilities using the [`ellmer`](https:/
 (https://wikki13-agenticai-r.share.connect.posit.cloud)
 ## 💡 Features
 
-- Interactive chat interface built with Shiny
+- Interactive chat interface built with Shiny.
 - Uses GROQ's language model API via `ellmer::chat_groq()`
 - Logs all user and AI messages with timestamps
 - Stylish, chat-bubble layout (user vs AI)
