@@ -36,7 +36,7 @@ A Shiny app that integrates Agentic AI capabilities using the [`ellmer`](https:/
 4. **Run the app:**
    - Once the required packages are installed and the API key is set, start the Shiny app by running:
       `shiny::runApp()`
-   - This will launch the app in your default web browser.
+   - This will launch the app in your default web browser..
   
 ** Author : Vigneshwara Chandrasekaran **
 
