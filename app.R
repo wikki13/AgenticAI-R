@@ -2,6 +2,7 @@ library(ellmer)
 library(arrow)
 library(shiny)
 library(curl)
+library(caret)
 
 
 ui <- fluidPage(
