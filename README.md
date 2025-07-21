@@ -10,6 +10,7 @@ A Shiny app that integrates Agentic AI capabilities using the [`ellmer`](https:/
 - Uses GROQ's language model API via `ellmer::chat_groq()`
 - Logs all user and AI messages with timestamps
 - Stylish, chat-bubble layout (user vs AI)
+- A LLM which prompts with memory of previous chat
 - Chat history saved and loaded via `arrow::write_parquet()` / `read_parquet()`
 
 ## 🧰 Technologies Used
