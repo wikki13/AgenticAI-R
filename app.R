@@ -17,7 +17,7 @@ ui <- fluidPage(
     }
     .message {
       margin: 10px 0;
-      padding: 10px;
+      padding: 12px;
       border-radius: 10px;
       max-width: 75%;
       display: inline-block;
