@@ -4,7 +4,7 @@ library(shiny)
 library(curl)
 library(caret)
 
-
+#Ui
 ui <- fluidPage(
   tags$head(tags$style(HTML("
     .chat-box {
